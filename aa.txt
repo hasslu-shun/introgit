@@ -6,3 +6,5 @@ Ooooh
 Jafghawiugfoa
 
 tekito
+
+gitdiffの確認
